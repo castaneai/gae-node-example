@@ -1,0 +1,25 @@
+{
+  "name": "gae-node-example",
+  "version": "0.0.1",
+  "description": "Google App Engine (Standard) (Node.js)",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "deploy": "gcloud app deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castaneai/gae-node-example.git"
+  },
+  "author": "castaneai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/castaneai/gae-node-example/issues"
+  },
+  "homepage": "https://github.com/castaneai/gae-node-example#readme"
+}

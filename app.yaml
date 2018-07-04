@@ -1,0 +1,2 @@
+service: node-test
+runtime: nodejs8
